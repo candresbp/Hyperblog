@@ -8,3 +8,9 @@ body {
     border: solid red 1px;
     border-radius: 10px;
 }
+
+.cabecera {
+    background: yellow;
+    color: red;
+    font-weight: bold;
+}
